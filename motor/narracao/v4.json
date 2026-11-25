@@ -1,0 +1,16 @@
+{
+  "segmentos": [
+    {"de": 0, "ate": 2.5, "fala": "Oitenta páginas pra ler até amanhã?"},
+    {"de": 2.5, "ate": 3.2, "fala": "Não peça só um resumo. Peça o que você vai usar:"},
+    {"de": 3.2, "ate": 4.8, "fala": "Leia o documento, e me dê:"},
+    {"de": 4.8, "ate": 6.8, "fala": "cinco decisões,"},
+    {"de": 6.8, "ate": 8.8, "fala": "três riscos,"},
+    {"de": 8.8, "ate": 10.8, "fala": "dois números-chave,"},
+    {"de": 10.8, "ate": 16.3, "fala": "e o que eu preciso fazer até sexta."},
+    {"de": 16.3, "ate": 17.4, "fala": "O resultado: o PDF inteiro vira um cartão só."},
+    {"de": 17.4, "ate": 19.6, "fala": "As decisões,"},
+    {"de": 19.6, "ate": 21.8, "fala": "os riscos,"},
+    {"de": 21.8, "ate": 26.3, "fala": "e os números que importam."},
+    {"de": 26.3, "ate": 30, "fala": "Salva pro próximo relatório.", "final": true}
+  ]
+}

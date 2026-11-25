@@ -1,0 +1,10 @@
+{
+  "segmentos": [
+    {"de": 0, "ate": 2.5, "fala": "Será que a i-á vai roubar seu emprego?"},
+    {"de": 2.5, "ate": 5.5, "fala": "Ela não substitui cargos."},
+    {"de": 5.5, "ate": 14.2, "fala": "Ela substitui tarefas. E o seu cargo é um monte de tarefas diferentes."},
+    {"de": 14.2, "ate": 26.3, "fala": "As repetitivas, como relatórios, planilhas, imêius padrão e resumos, vão pra i-á. As de julgamento, como decidir, negociar, liderar e criar relações, continuam com você."},
+    {"de": 26.3, "ate": 32.3, "fala": "Quem usa a i-á nas tarefas certas sobe de nível."},
+    {"de": 32.3, "ate": 36, "fala": "Manda pro seu colega que tá com medo.", "final": true}
+  ]
+}

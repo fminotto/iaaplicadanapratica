@@ -1,0 +1,9 @@
+{
+  "segmentos": [
+    {"de": 0, "ate": 2.5, "fala": "Você ainda faz isso na mão?"},
+    {"de": 2.5, "ate": 12.2, "fala": "Três tarefas que levam uma hora, e que a i-á faz em um minuto. Um: aquela fórmula de planilha que você nunca lembra. Crie uma fórmula que some as vendas de março por vendedor."},
+    {"de": 12.2, "ate": 21.8, "fala": "Dois: o imêiu difícil pro chefe. Escreva um imêiu firme e educado, pedindo mais prazo."},
+    {"de": 21.8, "ate": 30.3, "fala": "Três: a ata da reunião, com responsáveis. Transforme estas anotações em ata, com responsável e prazo."},
+    {"de": 30.3, "ate": 35, "fala": "Manda pra quem vive dizendo que não tem tempo.", "final": true}
+  ]
+}

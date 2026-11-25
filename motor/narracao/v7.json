@@ -1,0 +1,12 @@
+{
+  "segmentos": [
+    {"de": 0, "ate": 2.5, "fala": "Você usa a i-á só como Google?"},
+    {"de": 2.5, "ate": 2.8, "fala": "Cinco usos da inteligência artificial que quase ninguém faz."},
+    {"de": 2.8, "ate": 8.7, "fala": "Cinco: treinar uma conversa difícil. Faça o papel do meu chefe: vou pedir aumento."},
+    {"de": 8.7, "ate": 14.6, "fala": "Quatro: achar pegadinhas no contrato de aluguel. Liste as cláusulas que me prejudicam."},
+    {"de": 14.6, "ate": 20.5, "fala": "Três: um cardápio com o que tem na geladeira. Tenho ovo, arroz e tomate: me dá três jantares."},
+    {"de": 20.5, "ate": 26.4, "fala": "Dois: a foto do quadro branco vira tarefas. Transforme esta foto em lista, com responsáveis."},
+    {"de": 26.4, "ate": 32.3, "fala": "Um: explicar qualquer assunto. Me explique juros compostos como se eu tivesse doze anos."},
+    {"de": 32.3, "ate": 38, "fala": "Manda pra quem ainda usa a i-á só como Google.", "final": true}
+  ]
+}

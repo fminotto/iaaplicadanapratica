@@ -1,0 +1,10 @@
+{
+  "segmentos": [
+    {"de": 0, "ate": 2.5, "fala": "Segunda-feira caótica?"},
+    {"de": 2.5, "ate": 3.2, "fala": "Esse é o prompt que eu uso toda segunda:"},
+    {"de": 3.2, "ate": 16.3, "fala": "Esta é minha lista de tarefas. Organize por impacto e urgência, sugira o que cortar, e monte minha semana em blocos de noventa minutos."},
+    {"de": 16.3, "ate": 21.2, "fala": "A i-á separa tudo por impacto e urgência: o que fazer já, o que agendar, o que é rápido, e o que cortar."},
+    {"de": 21.2, "ate": 26.3, "fala": "E devolve a sua semana pronta, em blocos de noventa minutos."},
+    {"de": 26.3, "ate": 31, "fala": "Salva, e usa na próxima segunda.", "final": true}
+  ]
+}

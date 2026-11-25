@@ -1,0 +1,12 @@
+{
+  "segmentos": [
+    {"de": 0, "ate": 2.5, "fala": "A i-á, ela mente. E com toda a confiança."},
+    {"de": 2.5, "ate": 8.3, "fala": "Ela não consulta a verdade. Ela completa padrões: escolhe a palavra mais provável, não a confirmada."},
+    {"de": 8.3, "ate": 9.2, "fala": "Três sinais pra desconfiar."},
+    {"de": 9.2, "ate": 14.6, "fala": "Um: números exatos, sem fonte."},
+    {"de": 14.6, "ate": 20.0, "fala": "Dois: citações, leis e artigos muito específicos."},
+    {"de": 20.0, "ate": 26.3, "fala": "Três: links que você não abriu."},
+    {"de": 26.3, "ate": 30.3, "fala": "Então peça sempre: cite a fonte, e diga o quanto você tem certeza."},
+    {"de": 30.3, "ate": 33, "fala": "Comenta aqui a pior mentira que a i-á já te contou.", "final": true}
+  ]
+}
