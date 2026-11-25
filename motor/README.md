@@ -9,3 +9,11 @@ Renderizar (precisa de Node, Playwright, Google Chrome e ffmpeg):
     node render.mjs v1 stills 1.5,10,20    # quadros soltos para conferir
 
 Ajuste o caminho do Playwright no topo de `render.mjs` se necessário.
+
+## Carrosséis
+
+Cada carrossel é um arquivo `src/cN.js` que define `window.SLIDES` (o HTML de cada slide, mesmo visual dos Reels).
+
+    node carrossel.mjs c1                  # gera out/c1/01.png, 02.png... (1080x1350)
+
+Os slides finais ficam em `carrosseis/semana-N/`.
