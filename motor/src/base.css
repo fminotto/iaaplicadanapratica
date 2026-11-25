@@ -1,0 +1,10 @@
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#0B0F1A;font-family:'Inter',sans-serif;color:#F4F6FB}
+.stage{position:relative;width:1080px;height:1920px;overflow:hidden;background:#0B0F1A}
+.grid{position:absolute;inset:0;background-image:linear-gradient(#ffffff08 2px,transparent 2px),linear-gradient(90deg,#ffffff08 2px,transparent 2px);background-size:90px 90px}
+.glow{position:absolute;left:240px;top:600px;width:600px;height:600px;border-radius:50%;background:radial-gradient(circle,#C6FF3D22,transparent 65%)}
+.badge{position:absolute;top:190px;left:70px;font-size:34px;font-weight:600;color:#7C8597;letter-spacing:1px}
+.badge b{color:#C6FF3D}
+.h{position:absolute;left:70px;right:70px;font-weight:800;letter-spacing:-2px;line-height:1.05}
+.card{background:#151B2B;border:2px solid #232B40;border-radius:36px}
+.hl{color:#C6FF3D}
