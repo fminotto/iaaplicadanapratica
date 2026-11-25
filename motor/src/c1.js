@@ -36,3 +36,4 @@ S.push(`<div class="h" style="top:300px;font-size:120px;text-align:center">Salva
  <div style="position:absolute;left:0;right:0;top:760px;text-align:center"><svg width="150" height="195" viewBox="0 0 20 26"><path d="M2 1h16v24l-8-6-8 6z" fill="${C.lime}"/></svg></div>
  <div style="position:absolute;left:70px;right:70px;top:1010px;text-align:center;font-size:46px;font-weight:600;color:${C.white}">E manda pra quem ainda reclama<br>que a IA "só fala o óbvio".</div>`);
 window.SLIDES=S;
+window.TEMA='prompt em 4 blocos';
